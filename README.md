@@ -1,1 +1,3 @@
 # easyquery
+
+run composer install
